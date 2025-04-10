@@ -1,6 +1,6 @@
 {
   "name": "@ellentorg/friendly-succotash",
-  "version": "9.32.311",
+  "version": "9.32.312",
   "description": "",
   "main": "index.js",
   "author": "ellentea",
@@ -794,7 +794,7 @@
   "bugs": {
     "url": "https://github.com/ellentorg/friendly-succotash/issues"
   },
-  "packageManager": "yarn@4.8.1",
+  "packageManager": "yarn@4.9.0",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
